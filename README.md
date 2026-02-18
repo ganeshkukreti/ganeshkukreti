@@ -23,27 +23,41 @@ alt="linkedin" height="30" width="40" />
 ---
 
 ### 🛠️ Tech Stack:
-<p align="left">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-alt="mysql" width="40" height="40"/>
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-alt="postgresql" width="40" height="40"/>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
 
-<img src="https://img.icons8.com/color/48/power-bi.png"
-alt="powerbi" width="40" height="40"/>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
+<br>Power BI
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-alt="pandas" width="40" height="40"/>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br>Pandas
+</td>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
-alt="excel" width="40" height="40"/>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" alt="Excel" />
+<br>Excel
+</td>
 
-<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"
-alt="powerquery" width="40" height="40"/>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png" width="48" height="48" alt="Power Query" />
+<br>Power Query
+</td>
 
-</p>
+</tr>
+</table>
 
 ---
 
