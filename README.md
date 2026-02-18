@@ -1,42 +1,54 @@
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
-<h3 align="center">Aspiring Data Analyst | Power BI Developer 📊</h3>
+<h1 align="center">Hi 👋, I'm Ganesh Kukreti</h1>
+<h3 align="center">Data Analyst | Power BI Developer | SQL & Excel Specialist</h3>
 
-<img align="right" alt="coding" width="400"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-- 🌱 I’m currently learning **Power BI & SQL**
-- 👨‍💻 All of my projects are available on my GitHub
-- 💬 Ask me about **Data Analytics, Dashboards**
-- 📫 How to reach me: ganeshkukreti555@gmail.com
-- ⚡ Fun fact: I love turning data into stories
+<img align="right" alt="data" width="400"
+src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif">
 
 ---
 
-### 🔗 Connect with me:
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ganeshkukreti/" target="blank">
-<img align="center"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
-alt="linkedin" height="30" width="40" />
-</a>
-</p>
+## 🚀 About Me
+
+✔️ Results-driven Data Analyst with hands-on experience in building interactive dashboards  
+✔️ Strong expertise in **Power BI, SQL, Excel & Data Visualization**  
+✔️ Skilled at transforming raw data into actionable business insights  
+✔️ Passionate about solving real-world business problems using data  
 
 ---
 
-### 🛠️ Tech Stack:
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-alt="mysql" width="40" height="40"/>
-<img src="https://img.icons8.com/color/48/power-bi.png"
-alt="powerbi" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-alt="python" width="40" height="40"/>
-</p>
+## 🛠️ Technical Skills
+
+- 📊 Power BI (DAX, Data Modeling, Dashboard Design)
+- 🗄️ SQL (Joins, CTEs, Window Functions)
+- 📈 Advanced Excel (Pivot Tables, Power Query, Automation)
+- 🐍 Python (Basic Data Analysis)
+- 📑 Data Cleaning & Transformation
 
 ---
 
-### 📊 GitHub Stats:
+## 📂 Featured Projects
+
+🔹 Samsung Supply Chain & Logistics Dashboard  
+🔹 Sales Performance Analysis Dashboard  
+🔹 Business Insights Power BI Report  
+
+(More projects available in repositories)
+
+---
+
+## 📊 GitHub Stats
 
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshkukreti&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkukreti&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: ganeshkukreti555@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/ganeshkukreti/
+
+---
+
+⭐ If you like my work, feel free to connect and collaborate!
+
