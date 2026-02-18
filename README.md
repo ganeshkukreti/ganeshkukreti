@@ -24,12 +24,25 @@ alt="linkedin" height="30" width="40" />
 
 ### 🛠️ Tech Stack:
 <p align="left">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
 alt="mysql" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+alt="postgresql" width="40" height="40"/>
+
 <img src="https://img.icons8.com/color/48/power-bi.png"
 alt="powerbi" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-alt="python" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+alt="pandas" width="40" height="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"
+alt="excel" width="40" height="40"/>
+
+<img src="https://img.icons8.com/color/48/microsoft-excel-2019.png"
+alt="powerquery" width="40" height="40"/>
+
 </p>
 
 ---
@@ -39,4 +52,5 @@ alt="python" width="40" height="40"/>
 ![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=ganeshkukreti&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshkukreti&layout=compact&theme=tokyonight)
+
 
