@@ -26,6 +26,7 @@ alt="linkedin" height="30" width="40" />
 
 <table>
 <tr>
+
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
 <br>MySQL
@@ -44,6 +45,15 @@ alt="linkedin" height="30" width="40" />
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
 <br>Pandas
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+<br>Python
 </td>
 
 <td align="center" width="96">
